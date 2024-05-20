@@ -4,5 +4,5 @@
    
 
 
-This repo contains all the necessary material and specifically the python script (parser) in order to read a large file of data that cannot be read casually on a local environment. It takes advantage of the python package 'json' to parse the data and it also includes the SQL queries to populate the tables (relations) of a relational database. More specifically, we designed and built a bookstore's database in Postgresql for the sake of our analysis. 
+This repo contains all the necessary material and specifically the python script (parser) in order to read a large file of data that cannot be read otherwise on a local machine due to memory limitations. It takes advantage of the python package 'json' to parse the data and it also includes the SQL queries to populate the tables (relations) of a relational database. More specifically, we designed and built a bookstore's database in Postgresql for the sake of our analysis. 
 You can tailor the script according to your needs.
